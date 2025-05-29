@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\bin\Debug\net8.0\LibraryManagement.Models.deps.json
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\bin\Debug\net8.0\LibraryManagement.Models.dll
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\bin\Debug\net8.0\LibraryManagement.Models.pdb
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\obj\Debug\net8.0\LibraryManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\obj\Debug\net8.0\LibraryManagement.Models.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\obj\Debug\net8.0\LibraryManagement.Models.AssemblyInfo.cs
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\obj\Debug\net8.0\LibraryManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\obj\Debug\net8.0\LibraryManagement.Models.dll
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\obj\Debug\net8.0\refint\LibraryManagement.Models.dll
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\obj\Debug\net8.0\LibraryManagement.Models.pdb
+C:\Users\Student\Desktop\FinalExam\LibraryManagement.Models\obj\Debug\net8.0\ref\LibraryManagement.Models.dll

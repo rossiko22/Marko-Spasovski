@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{974394A7-2B78-4EFA-872B-7A94D028C929}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.services\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.webapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974394A7-2B78-4EFA-872B-7A94D028C929}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.services\\iservices\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69829B03-1EFF-4C34-B498-F561D0F663D9}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974394A7-2B78-4EFA-872B-7A94D028C929}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.services\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C799D-56DA-4DEB-ABE2-E07A6E99D410}|..\\LibraryManagement.Models\\LibraryManagement.Models.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.models\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C799D-56DA-4DEB-ABE2-E07A6E99D410}|..\\LibraryManagement.Models\\LibraryManagement.Models.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.models\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C799D-56DA-4DEB-ABE2-E07A6E99D410}|..\\LibraryManagement.Models\\LibraryManagement.Models.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.models\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69829B03-1EFF-4C34-B498-F561D0F663D9}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.data\\irepository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69829B03-1EFF-4C34-B498-F561D0F663D9}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.data\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69829B03-1EFF-4C34-B498-F561D0F663D9}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.data\\irepository\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69829B03-1EFF-4C34-B498-F561D0F663D9}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.data\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974394A7-2B78-4EFA-872B-7A94D028C929}|..\\LibraryManagement.Services\\LibraryManagement.Services.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.services\\iservices\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C799D-56DA-4DEB-ABE2-E07A6E99D410}|..\\LibraryManagement.Models\\LibraryManagement.Models.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69829B03-1EFF-4C34-B498-F561D0F663D9}|..\\LibraryManagement.Data\\LibraryManagement.Data.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.data\\librarymanagement.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|c:\\users\\student\\desktop\\finalexam\\librarymanagement.webapi\\librarymanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{484662CA-DA6E-477B-BA85-37A5FE0925AE}|LibraryManagement.WebAPI.csproj|solutionrelative:librarymanagement.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Services\\IServices\\IClientService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\IServices\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Services\\IServices\\IClientService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\IServices\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:28:25.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:27:31.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Models\\Dtos\\ClientDto.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Models\\Dtos\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Models\\Dtos\\ClientDto.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Models\\Dtos\\ClientDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:11:58.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Services\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Services\\Services\\ClientService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Services\\ClientService.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAHAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:09:35.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\IRepository\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\IRepository\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\IRepository\\IClientRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\IRepository\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:06:21.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:58:52.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Models\\Dtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Models\\Dtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Models\\Dtos\\BookDto.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Models\\Dtos\\BookDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:43:09.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Services\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Services\\Services\\BookService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\Services\\BookService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAKcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:32:11.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\IRepository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\IRepository\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\IRepository\\IBookRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\IRepository\\IBookRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:24:00.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:13:15.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:49:25.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\DatabaseContext.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:47:35.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\Repository\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\Repository\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\Repository\\ClientRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\Repository\\ClientRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:04:36.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Services\\IServices\\IBookService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Services\\IServices\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Services\\IServices\\IBookService.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Services\\IServices\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:57:03.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Models\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Models\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Models\\Entities\\Client.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Models\\Entities\\Client.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:30:34.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Models\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Models\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Models\\Entities\\Book.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Models\\Entities\\Book.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:30:16.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LibraryManagement.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+              "RelativeToolTip": "..\\LibraryManagement.Data\\LibraryManagement.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T17:47:10.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T17:45:48.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibraryManagement.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\LibraryManagement.WebAPI.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FinalExam\\LibraryManagement.WebAPI\\LibraryManagement.WebAPI.csproj",
+              "RelativeToolTip": "LibraryManagement.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T17:28:09.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
